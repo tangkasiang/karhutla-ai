@@ -1,0 +1,20 @@
+{
+    "features": [
+        "t2m_c",
+        "tp",
+        "wind_speed",
+        "u10",
+        "v10",
+        "peat_fraction",
+        "oil_palm_fraction",
+        "wood_fibre_fraction",
+        "road_density_km_per_km2",
+        "lat_centre",
+        "lon_centre",
+        "fire_count_lnh"
+    ],
+    "lookback": 12,
+    "target": "fire_count_lnh",
+    "target_transform": "log1p",
+    "forecast_horizon_months": 1
+}

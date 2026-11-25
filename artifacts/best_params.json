@@ -1,0 +1,9 @@
+{
+    "units_1": 64,
+    "units_2": 64,
+    "dense_units": 16,
+    "dropout_1": 0.1963770668238923,
+    "dropout_2": 0.11637057042068058,
+    "learning_rate": 0.003689031494500195,
+    "batch_size": 64
+}
